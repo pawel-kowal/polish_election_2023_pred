@@ -1,2 +1,2 @@
-# polish_election_2023_pred
+# Polish election 2023 prediction
 Very simple linear regression model, based on results from 80% of district electoral commission
